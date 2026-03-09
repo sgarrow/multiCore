@@ -10,7 +10,7 @@ import nProcsPool       as npp
 import worker           as wrk
 import county_summary   as pWrk
 
-VER = 'v1.19.3 - 07-Mar-2026'
+VER = 'v1.19.4 - 08-Mar-2026'
 #############################################################################
 
 def printResults( fName, inQ, inExeTime ):
